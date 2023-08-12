@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #eeeeee;
+    color:#000;
+}
+img{
+    max-width:100%;
+    height:auto;
+}
+.container{
+    max-width:90vw;
+    margin: 5vh auto 2vh;
+}
+section.imageSec{
+    margin: 5vh auto;
+}
+h1{
+    text-decoration:underline;
+    line-height: 1.95;
+    font-size:2.5vw;
+}
+p.desc{
+    font-size: 1.35vw;
+    line-height:1.5;
+    margin:0.75vh 0 3vh;
+}
+a.readMore{
+    font-size: 1.35vw;
+    line-height:1.5;
+    color:#000;
+}
+h2{
+    text-decoration:underline;
+    line-height: 1.95;
+    font-size:1.75vw;
+}
+.dogImage{
+    max-width: 35vw;
+    display: block;
+    margin:0.75vh 0 5vh;
+}
+ol li{
+    font-size: 1.15vw;
+    line-height:1.85;
+}
+ol{
+    padding: 2.25vh 0 0.25vh 1.5vw;
+}
+footer{
+    font-size: 1.15vw;
+    line-height: 1.25;
+    margin:6vh auto 0;
+}
